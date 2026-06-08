@@ -1,7 +1,7 @@
 # My-Bio 
 # 👋 Hi there, I'm CarolineOgbebo 
 
-I'm a dedicated Cybersecurity professional with over 2 years of experience, specializing in pentesting, threat intelligence, and Governance, Risk, and Compliance (GRC). My expertise as a SOC Analyst has honed my skills in identifying vulnerabilities and enhancing security measures across diverse environments.
+I'm a dedicated Cybersecurity professional with a few years of experience, specializing in pentesting, threat intelligence, and Governance, Risk, and Compliance (GRC). My expertise as a SOC Analyst has honed my skills in identifying vulnerabilities and enhancing security measures across diverse environments.
 
 🌟 Skills and Expertise
 - Pentesting: Proficient in conducting penetration tests to identify and exploit vulnerabilities, ensuring robust security postures.
