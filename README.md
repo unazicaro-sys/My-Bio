@@ -1,24 +1,53 @@
 # My-Bio 
-# 👋 Hi there, I'm CarolineOgbebo 
+# 👋 Hi there, I'm Caroline Ogbebo 
 
-I'm a dedicated Cybersecurity professional with a few years of experience, specializing in pentesting, threat intelligence, and Governance, Risk, and Compliance (GRC). My expertise as a SOC Analyst has honed my skills in identifying vulnerabilities and enhancing security measures across diverse environments.
+🛡️ Cybersecurity Analyst in Training | SOC | Blue Team | Networking | GRC
 
-🌟 Skills and Expertise
-- Pentesting: Proficient in conducting penetration tests to identify and exploit vulnerabilities, ensuring robust security postures.
-- Threat Intelligence: Experienced in gathering, analyzing, and disseminating threat intelligence to preemptively address potential security incidents.
-- SOC Analyst: Skilled in monitoring security events, responding to incidents, and utilizing SIEM tools for comprehensive threat detection.
-- GRC: Knowledgeable in compliance frameworks (NIST, ISO 27001) and adept at conducting risk assessments to fortify organizational security.
+I am an aspiring Cybersecurity Analyst passionate about defending systems, understanding networks, and turning complex security concepts into practical solutions.
 
-🛠️ Tools and Technologies
-- SIEM Tools: Splunk, ELK Stack
-- Pentesting Tools: Metasploit, Burp Suite, Nessus
-- Endpoint Protection: CrowdStrike, Carbon Black
-- Scripting Languages: Bash for automation and analysis
+My journey into cybersecurity is built on curiosity, consistency, and hands-on learning. I believe the best way to learn is by building, breaking, troubleshooting, and documenting every step of the process.
 
-🌐 Let's Connect!
-I'm passionate about staying ahead of cybersecurity trends and collaborating on innovative projects. 
-Feel free to reach out for discussions on pentesting, threat intelligence, or any cybersecurity-related topics!
+Through this GitHub profile, I share my labs, projects, write-ups, and notes as I develop skills in:
 
+- 🔍 Security Operations Center (SOC)
+- 🌐 Networking & Network Segmentation
+- 🐧 Linux & 🪟 Windows Administration
+- 🔥 Firewall Configuration with pfSense
+- 📡 Packet Analysis using Wireshark
+- 🛰️ Network Discovery with Nmap
+- 🚨 Threat Detection & Incident Response
+- 📋 Governance, Risk & Compliance (GRC)
+- 🛠️ Enterprise Network Design with Cisco Packet Tracer
+- 📈 Security Documentation & Visualisation with Draw.io
+
+🚀 Current Focus
+
+- Building and documenting hands-on cybersecurity labs
+- Designing secure enterprise networks and implementing ACLs
+- Practising IP addressing, subnetting, and network segmentation
+- Developing SOC analyst skills through log analysis and security monitoring
+- Strengthening Blue Team methodologies and defensive security practices
+
+🧰 Tools & Technologies
+
+"Wireshark" • "Nmap" • "pfSense" • "Wazuh" • "Cisco Packet Tracer" • "Kali Linux" • "Ubuntu" • "Windows" • "Git" • "GitHub" • "Draw.io"
+
+🎯 2026 Goals
+
+- Build a standout cybersecurity portfolio
+- Master networking and security fundamentals
+- Gain practical experience through projects and labs
+- Contribute to the cybersecurity community
+- Earn industry-recognised certifications
+- Secure a Cybersecurity Analyst / SOC Analyst role
+
+---
+
+«“Every expert was once a beginner.”»
+
+I’m documenting the journey, one lab, one project, and one lesson at a time. Feel free to explore my repositories, provide feedback, or connect with me as I grow in the world of cybersecurity.
+
+⭐ Follow my journey and let’s learn, build, and secure together.
 [LinkedIn] www.linkedin.com/in/caroline-ogbebo-97b21253
 [Email] unazicaro@gmail.com 
 
