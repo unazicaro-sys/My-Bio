@@ -30,7 +30,8 @@ Through this GitHub profile, I share my labs, projects, write-ups, and notes as 
 
 🧰 Tools & Technologies
 
-"Wireshark" • "Nmap" • "pfSense" • "Wazuh" • "Cisco Packet Tracer" • "Kali Linux" • "Ubuntu" • "Windows" • "Git" • "GitHub" • "Draw.io"
+Wireshark • Nmap • pfSense • Wazuh • Cisco Packet Tracer • Kali Linux • Ubuntu • Windows • Nessus • GitHub • Draw.io  • Hydra • Metaspliot • Metaspliotable2 • Sublist3r • theHavester
+
 
 🎯 2026 Goals
 
@@ -39,11 +40,11 @@ Through this GitHub profile, I share my labs, projects, write-ups, and notes as 
 - Gain practical experience through projects and labs
 - Contribute to the cybersecurity community
 - Earn industry-recognised certifications
-- Secure a Cybersecurity Analyst / SOC Analyst role
+- Secure a Cybersecurity Analyst / SOC Analyst / GRC Role
 
 ---
 
-«“Every expert was once a beginner.”»
+“Every expert was once a beginner.”
 
 I’m documenting the journey, one lab, one project, and one lesson at a time. Feel free to explore my repositories, provide feedback, or connect with me as I grow in the world of cybersecurity.
 
